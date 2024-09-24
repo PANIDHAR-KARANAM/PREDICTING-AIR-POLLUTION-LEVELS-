@@ -1,4 +1,4 @@
-****Air Pollution Data Analysis and Classification****
+#Air Pollution Data Analysis and Classification
 
 Project Overview
 This project focuses on analyzing air pollution data across different cities and countries, predicting pollution levels, and classifying them into severity categories. The data contains various air quality indicators like PM2.5, PM10, and NO2, alongside metadata such as country, city, and temporal coverage.
